@@ -28,7 +28,7 @@ class Home extends StatefulWidget {
 
 class _HomeState extends State<Home> {
   int i = 0;
-  List<String> animation = ['assets/coração.riv','assets/engrenagens.riv'];
+  List<String> animation = ['assets/arm_robot.riv','assets/coração.riv','assets/engrenagens.riv'];
   @override
   Widget build(BuildContext context) {
     return Scaffold(
